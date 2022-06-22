@@ -14,7 +14,9 @@ De igual amnera se realizo el chasis completo desde cero, considerando aspectos 
 
 #### Control
 Para el control se implemento el uso de un microcontrolador  modelo KL25Z
+
 ######Diagrama de bloques [Full View](https://drive.google.com/file/d/1XmbTj-4Q8WG8gTDqQJuQ3ZeK-fzQNAIc/view?usp=sharing)
+
  ![](https://lh3.googleusercontent.com/ec0O7gM18H_1UVOEspQ9GCc1IagcoDGFeg2_VNUyn6zV4LlqqFaJE6oPaAlGC3_RnPb2Ag=s91)
 Para la integración de los componentes electronicos fue necesario diseñar pcb´s tanto para el maando como para la propai quinta rueda
 
