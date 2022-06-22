@@ -28,4 +28,4 @@ Para la integración de los componentes electronicos fue necesario diseñar pcb�
  ![](https://lh3.googleusercontent.com/yls3hOHqrWtAZhOxqeeQPJ3LK74PhRYQGgt7DT3IQ4gn1ljGeQVK2jBTVCsfsDFE9UfX=s128)
 
 #### Participación
-Mi trabajo dentro del equipo de trabajo fue la investigación y validación de información para el diseño de la silla de ruedas asi como el diseño del sistema de quinta rueda motorizada. Además de realizar los esquematicos y diseños de ambas PCB´s
+Mi trabajo dentro del equipo de trabajo fue la investigación y validación de información para el diseño de la silla de ruedas asi como el diseño del sistema de quinta rueda motorizada. Además de realizar los esquematicos y diseños de ambas PCB´s y realizar la manufactura e integración de componentes.
